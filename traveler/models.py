@@ -5,7 +5,6 @@ class Bus(models.Model):
     bus_Id =Ticket_Id = models.CharField(max_length=12)
     capacity = models.IntegerField()
     Bus_license_plate = models.CharField(max_length=9)
-    bus_station = models.CharField(max_length=255)
 
 
 
