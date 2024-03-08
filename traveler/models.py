@@ -89,7 +89,7 @@ class TourismMagazine(models.Model):
 class Location(models.Model):
     pass
 
-
+# aaaa
 
 
 
